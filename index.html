@@ -1,1 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Child Legitimacy Recordings</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f8f9fb;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+    }
+    main {
+      width: min(900px, 95vw);
+      background: #fff;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    }
+    h1, h2 {
+      text-align: center;
+      font-weight: 600;
+    }
+    video {
+      width: 100%;
+      max-width: 100%;
+      border-radius: 12px;
+      display: block;
+      margin: 1rem 0 2rem;
+    }
+    p {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    a {
+      color: #3366cc;
+    }
+  </style>
+</head>
 
+<body>
+  <main>
+    <h1>Child Legitimacy Recordings</h1>
+
+    <!-- First video: Legitimate -->
+    <h2>BOYS_Legitimate RECORDING</h2>
+    <p>
+      <a href="RECORDING_BOYSLegitimate.mp4">Download or open directly</a>
+    </p>
+    <video controls preload="metadata" poster="thumbnailpicschool.png">
+      <source src="RECORDING_BOYSLegitimate.mp4" type="video/mp4">
+      Your browser doesn’t support video playback.
+      <a href="RECORDING_BOYSLegitimate.mp4">Open the video here</a>.
+    </video>
+
+    <!-- Second video: Error -->
+    <h2>BOYS_Error RECORDING</h2>
+    <p>
+      <a href="RECORDING_BOYSError.mp4">Download or open directly</a>
+    </p>
+    <video controls preload="metadata" poster="thumbnailpicschool.png">
+      <source src="RECORDING_BOYSError.mp4" type="video/mp4">
+      Your browser doesn’t support video playback.
+      <a href="RECORDING_BOYSError.mp4">Open the video here</a>.
+    </video>
+
+  </main>
+</body>
+</html>
