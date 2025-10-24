@@ -1,9 +1,6 @@
-# ChildLegitimacy_Stim 
+# ChildLegitimacy Intro Recordings  
 
-This site hosts recordings and materials for the Child Legitimacy Study.
-
-[!AUDIO] [Riley really class pres?.m4a](1.m4a) • 
-
+This site hosts the recordings for the Child Legitimacy Study.
 
 [![RECORDINGS](thumbnailpicschool.png)](https://alina-dau.github.io/Child-Legitimacy-Study/)
 
