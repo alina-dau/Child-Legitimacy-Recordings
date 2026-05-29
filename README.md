@@ -12,6 +12,8 @@ This site hosts the recordings for the Child Legitimacy Study.
 
 #### BOYS_CompFraud: 
 https://github.com/alina-dau/Child-Legitimacy-Recordings/blob/main/BOYS_CompFraud.mp4
+https://raw.githubusercontent.com/alina-dau/Child-Legitimacy-Recordings/main/BOYS_CompFraud.mp4
+
 
 #### BOYS_CompLegit: 
 https://github.com/alina-dau/Child-Legitimacy-Recordings/blob/main/BOYS_CompLegit.mp4
@@ -35,3 +37,5 @@ https://github.com/alina-dau/Child-Legitimacy-Recordings/blob/main/GIRLS_IncompL
 
 #### GIRLS_IncompFraud: 
 https://github.com/alina-dau/Child-Legitimacy-Recordings/blob/main/GIRLS_IncompFraud.mp4
+
+
