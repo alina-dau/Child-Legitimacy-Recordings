@@ -6,7 +6,7 @@ This site hosts the recordings for the Child Legitimacy Study.
 
 # Study 2: Competency 
 
-[![STUDY 2 RECORDINGS](thumbnailpicschool.png)](https://github.com/alina-dau/Child-Legitimacy-Recordings/)
+[![STUDY 2 RECORDINGS](thumbnailpicschool.png)]([https://github.com/alina-dau/Child-Legitimacy-Recordings/](https://raw.githubusercontent.com/alina-dau/Child-Legitimacy-Recordings/main/BOYS_CompFraud.mp4))
 
 ### Boys 
 
